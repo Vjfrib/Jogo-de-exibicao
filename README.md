@@ -3,3 +3,4 @@
 Jogo para exibição. va conistir num switch, com volta, pra testar as funções
 
 (no obs)
+vou refazer
